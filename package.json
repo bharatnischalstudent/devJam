@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/BharatNischal/devJam-week0/issues"
   },
-  "homepage": "https://github.com/BharatNischal/devJam-week0#readme"
+  "homepage": "https://github.com/BharatNischal/devJam-week0#readme",
+  "engines": {
+    "node": "14.x"
+  }
 }
